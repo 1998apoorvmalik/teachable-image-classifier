@@ -4,9 +4,9 @@
 
 Inspired by Google’s teachable machines, I created my own version of this project. The frontend is created with the Flutter, and the backend is coded with Python (Tensorflow, Flask, Socket IO).
 
-![Screenshot 2022-01-10 at 5 05 27 AM](https://user-images.githubusercontent.com/34202100/148705773-bc7f28a0-c4b3-48f3-b899-ce68f44e1744.png)
-
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/34202100/148705686-5f4705b7-2754-4e20-bfb4-f94faa194ce0.gif)
+
+![Screenshot 2022-01-10 at 5 07 17 AM](https://user-images.githubusercontent.com/34202100/148705828-89d63ff0-79ce-41c5-b372-9a4a66eb8155.png)
 
 To run this project, you must have both flutter and anaconda installed.
 
