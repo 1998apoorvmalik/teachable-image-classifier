@@ -1,0 +1,29 @@
+name: teachable-image-classifier
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - tensorflow
+  - flask
+  - pip
+  - pyyaml
+  - requests
+  - jupyter
+  - h5py
+  - pillow
+  - scipy
+  - tqdm
+  - boto3
+  - python=3.9
+  - scikit-learn
+  - pandas-datareader
+  - pandas
+  - nb_conda
+  - flake8
+  - black
+  - pip:
+      - python-socketio==4.6.0
+      - python-engineio==3.13.2
+      - Flask-SocketIO==4.3.1
+      - eventlet==0.33.0
