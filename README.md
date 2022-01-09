@@ -4,7 +4,7 @@
 
 Inspired by Google’s teachable machines, I created my own version of this project. The frontend is created with the Flutter, and the backend is coded with Python (Tensorflow, Flask, Socket IO).
 
-https://user-images.githubusercontent.com/34202100/148704983-41fa4f8b-6c32-4cb0-9e3e-fa89a9249345.mov
+https://github.com/1998apoorvmalik/teachable_image_classifier/blob/main/demo/teachable_image_classifier_demo.mp4
 
 To run this project, you must have both flutter and anaconda installed.
 
