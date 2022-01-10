@@ -1,4 +1,4 @@
-# Teachable Machine Classifier
+# Teachable Image Classifier
 
 ## Introduction
 
